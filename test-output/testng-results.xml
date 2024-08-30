@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-28T22:49:40 IST" name="Default suite" finished-at="2024-08-28T22:50:11 IST" duration-ms="30832">
+    <groups>
+    </groups>
+    <test started-at="2024-08-28T22:49:40 IST" name="Default test" finished-at="2024-08-28T22:50:11 IST" duration-ms="30832">
+      <class name="test.SwagLabLoginTest">
+        <test-method is-config="true" signature="configureReporting()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:49:40 IST" name="configureReporting" finished-at="2024-08-28T22:49:41 IST" duration-ms="615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureReporting -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:49:41 IST" name="openBrowser" finished-at="2024-08-28T22:49:48 IST" duration-ms="7168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Clocked()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:49:48 IST" name="Clocked" finished-at="2024-08-28T22:49:49 IST" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clocked -->
+        <test-method is-config="true" signature="addReportStatus(org.testng.ITestResult)[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:49:49 IST" name="addReportStatus" finished-at="2024-08-28T22:49:49 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Clocked status=SUCCESS method=SwagLabLoginTest.Clocked()[pri:0, instance:test.SwagLabLoginTest@4a003cbe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReportStatus -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:49:49 IST" name="openBrowser" finished-at="2024-08-28T22:49:52 IST" duration-ms="3010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="performance()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:49:52 IST" name="performance" finished-at="2024-08-28T22:49:58 IST" duration-ms="5647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performance -->
+        <test-method is-config="true" signature="addReportStatus(org.testng.ITestResult)[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:49:58 IST" name="addReportStatus" finished-at="2024-08-28T22:49:58 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=performance status=SUCCESS method=SwagLabLoginTest.performance()[pri:0, instance:test.SwagLabLoginTest@4a003cbe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReportStatus -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:49:58 IST" name="openBrowser" finished-at="2024-08-28T22:50:01 IST" duration-ms="3479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="problem()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:50:01 IST" name="problem" finished-at="2024-08-28T22:50:03 IST" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- problem -->
+        <test-method is-config="true" signature="addReportStatus(org.testng.ITestResult)[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:50:03 IST" name="addReportStatus" finished-at="2024-08-28T22:50:03 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=problem status=SUCCESS method=SwagLabLoginTest.problem()[pri:0, instance:test.SwagLabLoginTest@4a003cbe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReportStatus -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:50:03 IST" name="openBrowser" finished-at="2024-08-28T22:50:08 IST" duration-ms="5390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="standardUser()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:50:08 IST" name="standardUser" finished-at="2024-08-28T22:50:10 IST" duration-ms="2144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- standardUser -->
+        <test-method is-config="true" signature="addReportStatus(org.testng.ITestResult)[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:50:10 IST" name="addReportStatus" finished-at="2024-08-28T22:50:10 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=standardUser status=SUCCESS method=SwagLabLoginTest.standardUser()[pri:0, instance:test.SwagLabLoginTest@4a003cbe] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReportStatus -->
+        <test-method is-config="true" signature="PublishReports()[pri:0, instance:test.SwagLabLoginTest@4a003cbe]" started-at="2024-08-28T22:50:10 IST" name="PublishReports" finished-at="2024-08-28T22:50:11 IST" duration-ms="1038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PublishReports -->
+      </class> <!-- test.SwagLabLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
